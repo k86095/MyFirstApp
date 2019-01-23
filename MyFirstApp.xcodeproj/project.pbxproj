@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D4D2B7D21F8584D00D19D29 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D4D2B7C21F8584D00D19D29 /* crayon_1-1.ttf */; };
 		1DF0973721F6ADCB005E6DA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0973621F6ADCB005E6DA2 /* AppDelegate.swift */; };
 		1DF0973921F6ADCB005E6DA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0973821F6ADCB005E6DA2 /* ViewController.swift */; };
 		1DF0973C21F6ADCB005E6DA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DF0973A21F6ADCB005E6DA2 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D4D2B7C21F8584D00D19D29 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "crayon_1-1.ttf"; path = "../../../Downloads/crayonfont/crayon_1-1.ttf"; sourceTree = "<group>"; };
 		1DF0973321F6ADCB005E6DA2 /* MyFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0973621F6ADCB005E6DA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0973821F6ADCB005E6DA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 			children = (
 				1DF0973521F6ADCB005E6DA2 /* MyFirstApp */,
 				1DF0973421F6ADCB005E6DA2 /* Products */,
+				1D4D2B7C21F8584D00D19D29 /* crayon_1-1.ttf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D4D2B7D21F8584D00D19D29 /* crayon_1-1.ttf in Resources */,
 				1DF0974121F6ADCD005E6DA2 /* LaunchScreen.storyboard in Resources */,
 				1DF0973E21F6ADCD005E6DA2 /* Assets.xcassets in Resources */,
 				1DF0973C21F6ADCB005E6DA2 /* Main.storyboard in Resources */,
